@@ -6,6 +6,7 @@
 - The project was done in pairs. I worked with Aseel Asly.
 - In the **Physical layer** AKA "Phy", we implemented with Asynchronous Communication with a structure of data frames.
 - In the **Data link layer** AKA "DLL", we implemented with 'Stop & Wait' protocol.
+- All the code is written in C language.
 
 ## Compilation and running instructions:
 - The project is ment for **STM32F303 and STM32F308** microcontrollers, pruducts of "ST" company (Link attached [here](https://www.st.com/en/microcontrollers-microprocessors.html))
